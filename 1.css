@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Jua&family=Racing+Sans+One&display=swap');
+
+
+h1 {
+    text-align: center;
+    margin-top: 53px;
+    font-size: 65px;
+    font-family: 'Jua', sans-serif;
+    
+}
+
+a {
+    text-decoration: none;
+}
+
+h2{
+    text-align: center;
+    margin-top: 25px;
+    font-size: 25px;
+    font-family: 'Jua', sans-serif;    
+}
+
+div{
+    text-align: center;
+    margin-top: 25px;
+    font-size: 20px;
+    font-family: 'Jua', sans-serif;  
+
+}
+
+h1 span:nth-child(1) {
+    color: rgb(64 134 244);
+  }
+
+h1 span:nth-child(2) {
+color: rgb(235 65 50);
+}
+
+h1 span:nth-child(3) {
+    color: rgb(251 189 1);
+    }
+
+h1 span:nth-child(4) {
+    color: rgb(64 134 244);
+    }
+    
+h1 span:nth-child(5) {
+    color: rgb(48 169 82);
+    }
+
+h1 span:nth-child(6) {
+    color: rgb(235 65 50);
+    }
+
+.search-bar {
+    width: 500px;
+}
+        
+
+        
